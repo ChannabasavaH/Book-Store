@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table {
+    @apply border border-slate-600 text-center rounded;
+}
